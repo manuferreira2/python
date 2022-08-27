@@ -2,4 +2,4 @@
 
 Aqui você vai encontrar alguns scripts na linguagem python!
 
-- API_BISCOINT: Minha primeira requisição em uma api, com o intuito de realizar compras e vendas de bitcoin considerando valores previamente informados.
+- API BISCOINT: Minha primeira requisição em uma api utilizando o site Biscoint, com o intuito de realizar compras e vendas de bitcoin considerando valores previamente informados.
