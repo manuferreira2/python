@@ -4,8 +4,8 @@ from biscoint_api_python import Biscoint
 from time import sleep
 
 api_data = {
-    'api_key': '4ac3580d4975d9465add3a469442c6ba54c5ace105efb97cc5f07fee5cd3904b',
-    'api_secret': 'acc9a10439cbbac4969407c72cc7d5412b6b18fa72006a35d80748e0504b8661',}
+    'api_key': 'xx_chaveapikey_xx',
+    'api_secret': 'xx_chaveapisecret_xx',}
 
 bsc = Biscoint(api_data['api_key'], api_data['api_secret'])
 
